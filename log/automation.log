@@ -1,0 +1,11 @@
+2019-10-12 18:43:21 [main] INFO  TestBase:45 - Report path: C:\Users\Bear\IdeaProjects\VYTrack/test-output/reports/10_12_2019/report.html
+2019-10-12 18:43:35 [main] INFO  TestBase:103 - :: FLUSHING REPORT ::
+2019-10-12 18:46:34 [main] INFO  TestBase:45 - Report path: C:\Users\Bear\IdeaProjects\VYTrack/test-output/reports/10_12_2019/report.html
+2019-10-12 18:46:49 [main] INFO  TestBase:68 - URL: http://qa2.vytrack.com/user/login
+2019-10-12 18:46:55 [main] INFO  TestBase:103 - :: FLUSHING REPORT ::
+2019-10-12 19:01:22 [main] INFO  TestBase:45 - Report path: C:\Users\Bear\IdeaProjects\VYTrack/test-output/reports/10_12_2019/report.html
+2019-10-12 19:01:37 [main] INFO  TestBase:68 - URL: http://qa2.vytrack.com/user/login
+2019-10-12 19:01:43 [main] INFO  TestBase:103 - :: FLUSHING REPORT ::
+2019-10-12 19:03:12 [main] INFO  TestBase:45 - Report path: C:\Users\Bear\IdeaProjects\VYTrack/test-output/reports/10_12_2019/report.html
+2019-10-12 19:03:25 [main] INFO  TestBase:68 - URL: http://qa2.vytrack.com/user/login
+2019-10-12 19:03:32 [main] INFO  TestBase:103 - :: FLUSHING REPORT ::
